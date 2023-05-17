@@ -80,7 +80,7 @@ Plots and graphs were made using Python's visualisation packages instead of Tabl
 <br>
 
 ### **Thoughts**
-Some ideas about this second project were inspired by the community at Kaggle, Medium articles and other websites. This has been a fruitful but extremely frustrating at times learning a new language from a completely different background. I caught myself stuck at the same problem after 3 hours of Google and unable to find an answer. I must admit at times I felt lost whether data analysis is what I would enjoy long run, but on the other hand I tell myself as a complete newbie this is at least something to be proud of. 
+Some ideas about this second project were inspired by the community at Kaggle, Medium articles and other websites. This has been a fruitful but extremely frustrating at times learning a new language coming from a completely different background. I caught myself stuck at the same problem after 3 hours of Google and unable to find an answer. I must admit at times I felt lost whether data analysis is what I would enjoy long run, but on the other hand I tell myself as a complete newbie this is at least something to be proud of. 
 
 I'm writing this here to keep myself accountable: In my next project I am going to use Python with BeautifulSoup to web scrape. Like this project, I have no experience using the tools and unfamiliar with HTML, and this is a big dive into another aspect of Python. I can already see a lot of frustrating hours but I will keep this going until I can confidently say "Yes I am very comfortable using Python to do 'this'"
 
